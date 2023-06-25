@@ -15,7 +15,7 @@ shot-3](https://github.com/ViditaShetty/Full-stack-Ecommerce-Website-in-MERN/ass
 •	Product Page
 ![myEcommerce-screenshot-6](https://github.com/ViditaShetty/Full-stack-Ecommerce-Website-in-MERN/assets/96463276/5403e6ab-9c4d-4070-86a0-a1802b154be6)
 
-Indiviual Product Description
+• Indiviual Product Description
 ![myEcommerce-screenshot-5](https://github.com/ViditaShetty/Full-stack-Ecommerce-Website-in-MERN/assets/96463276/879a7103-cf5f-4e22-b7f8-f5ba690e3633)
 
 •	Cart Page
